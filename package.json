@@ -1,6 +1,6 @@
 {
   "name": "eg-cssmixin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight CSS mixin package for PSD-based web publishing",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
