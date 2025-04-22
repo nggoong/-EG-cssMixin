@@ -1,8 +1,8 @@
-# @EG/cssMixin
+# eg-cssmixin
 
 ## install
 
-> npm install @eg/cssmixin
+> npm install eg-cssmixin
 
 ## pxToVw(px: number, base: number = 360)
 
