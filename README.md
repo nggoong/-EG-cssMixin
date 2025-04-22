@@ -12,7 +12,7 @@ If the baseWidth is not provided, it defaults to 360px, which is commonly used f
 ### 📌 Parameters:
 
 * px – The pixel value to convert.
-* baseWidth (optional) – The width of the design device. Defaults to 360.
+* base (optional) – The width of the design device. Defaults to 360.
 
 ### 📌 Returns:
 
@@ -27,7 +27,7 @@ The returned value is rounded to the nearest integer.
 ### 📌 Parameters:
 
 * px (number) – The original pixel value from the design.
-* baseWidth (number, optional) – The design reference width (e.g., from the PSD). Defaults to 360.
+* divisor (number, optional) – The design reference width (e.g., from the PSD). Defaults to 360.
 
 ### 📌 Returns:
 
